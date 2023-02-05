@@ -1,4 +1,4 @@
-# Synteny_traning
+# Synteny_network
 Learning record for comparative genome analysis<br>
 <br>
 ## 1. Genome preparation :  
