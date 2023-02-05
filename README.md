@@ -1,5 +1,5 @@
 # Synteny_network
-Learning record for comparative genome analysis<br>
+Record for comparative genome analysis<br>
 <br>
 ## 1. Genome preparation :  
 PLAZA database download ".pep" ".gff" files (CDS sequence and chromosome information)<br>
