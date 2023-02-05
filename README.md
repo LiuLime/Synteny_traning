@@ -132,6 +132,10 @@ root@lyt:~/lyt_dir/MCScanX/MCScanX# cp -i /root/lyt_dir/MCScanX/MCScanX/MCScanX 
 The diamond and MCScanX are configured for using under any dictionary.
 <br><br>
 
+  <b>3. Using SynnetBuild-X.sh for building synteny network:</b>
+  <1>. Replace the array at 70 lines with own species name
+  <2>. ./SynetBuild-X.sh 6 5 25 10 #top hits, anchors, upstream and downstream gene numbers for searching anchors, threads
+ 
   
   
   
