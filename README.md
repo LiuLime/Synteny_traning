@@ -26,7 +26,7 @@ tar xzf diamond-linux64.tar.gz
 root@lyt:~/lyt_dir# ls # "manls" "ls help"to see usage of the commond; "cat .xx" to see the content of the file  
 $diamond  diamond-linux64.tar.gz # check diamond is able to active
   
-root@lyt:~/lyt_dir# ./diamond # active
+root@lyt:~/lyt_dir# ./diamond # run
 Error: Syntax: diamond COMMAND [OPTIONS]. To print help message: diamond help # diamond can be used now
   
 root@lyt:~/lyt_dir# ./diamond help # "help" check command
